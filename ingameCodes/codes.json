@@ -1,5 +1,9 @@
 {
     "Release" : {
         "Reward" : ["100 gold", "5 gems"]
+    },
+
+    "Abacate" : {
+        "Reward" : ["10 gold", "55 gems"]
     }
 }
